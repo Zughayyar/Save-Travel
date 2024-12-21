@@ -3,7 +3,6 @@ package com.axsosacademy.savetravel.services;
 import com.axsosacademy.savetravel.models.Expense;
 import com.axsosacademy.savetravel.repositories.ExpenseRepository;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 
 @Service
